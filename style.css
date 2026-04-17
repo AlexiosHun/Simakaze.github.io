@@ -6,7 +6,7 @@ div{
     width: 200px;
     height: 100px;
     margin: auto;
-
+    border-radius: 10px;
 }
 h1{
     text-align: center;
